@@ -9,6 +9,7 @@ GI (Geometric Intelligence) 理論リポジトリ
 ## 収録トピック
 
 - [emergent_communication/](./emergent_communication/) — Emergent Communication(創発的コミュニケーション)研究のサーベイ及びその他多くの技術調査中の項目
+- [manifold_learning_survey/](./manifold_learning_survey/) — 可微分多様体とビッグデータ解析に関する調査報告書
 
 ## ライセンス
 
