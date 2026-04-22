@@ -8,7 +8,7 @@ Technical supplementary notes with precise mathematical formulations, proofs, ex
 
 ## Contents / 内容
 
-- `companion_notes_part1.md` — The complete notes in English (approximately 25,000 words)
+- `companion_notes_part1.pdf` — The complete notes in English (approximately 25,000 words)
 
 ---
 
