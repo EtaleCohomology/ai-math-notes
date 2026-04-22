@@ -30,6 +30,13 @@ This article was originally published on Zenn:
 CC BY 4.0 (Creative Commons Attribution 4.0 International)
 
 ---
+## Image Credits / 画像クレジット
+
+Illustrations in the article were generated using Google Gemini.
+
+本文中のイラストは Google Gemini を使用して生成されました。
+
+---
 
 ## Author / 著者
 
