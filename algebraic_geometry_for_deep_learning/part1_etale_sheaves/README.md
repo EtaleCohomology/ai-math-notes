@@ -34,7 +34,7 @@ CC BY 4.0 (Creative Commons Attribution 4.0 International)
 
 Illustrations in the article were generated using Google Gemini.
 
-本文中のイラストは Google Gemini を使用して生成されました。
+本文中のイラストは著者が創意工夫したプロンプト文に基づき、Google Gemini を使用して生成されました。
 
 ---
 
