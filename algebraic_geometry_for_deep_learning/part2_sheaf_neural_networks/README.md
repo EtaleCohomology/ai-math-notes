@@ -14,7 +14,7 @@ This article was originally published on Zenn:
 
 **https://zenn.dev/etalecohomology/articles/286acd9ab58a01**
 
-本記事は Zenn で初出公開されました。上記 URL がオリジナル版です。
+本記事は Zenn で初出公開されました。上記 URL が初出のオリジナル版です。
 
 ---
 
@@ -43,7 +43,7 @@ CC BY 4.0 (Creative Commons Attribution 4.0 International)
 
 Illustrations in the article were generated using Google Gemini.
 
-本文中のイラストは Google Gemini を使用して生成されました。
+本文中のイラストは著者が創意工夫したプロンプト文に基づき、Google Gemini を使用して生成されました。
 
 ---
 
