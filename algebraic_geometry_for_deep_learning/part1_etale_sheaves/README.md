@@ -14,7 +14,7 @@ This article was originally published on Zenn:
 
 **https://zenn.dev/etalecohomology/articles/e65f08b5ba899e**
 
-本記事は Zenn で初出公開されました。上記 URL が正典版です。
+本記事は Zenn で初出公開されました。上記 URL が初出のオリジナル版です。
 
 ---
 
